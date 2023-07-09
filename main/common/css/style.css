@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@import "fonts.css";
+@import "default.css";
+@import "design.css";
+@import "jquery.lightbox-0.5.css";
+
+
+/*#headerWrapper {*/
+/*  width:100%;*/
+/*  border-top:10px solid #48D1CC : */
+  
+/*}*/
+
+/*#header {*/
+/*  max-width: 1170px;*/
+/*  text-align: center;*/
+/*  margin:0 auto;*/
+/*}*/
+
+/*#header h1 {*/
+/*  float: left;*/
+/*  font-size: 30px;*/
+/*  font-color:#696969;*/
+/*}*/
+
+/*.description {*/
+/*  text-align: right;*/
+/*  font-size:15px;*/
+/*  margin-top:10px;*/
+  
+/*}*/
+
+/*.headerAddress  {*/
+/*  text-align: right;*/
+/*  color:#696969;*/
+/*}*/
+
+/*.tel {*/
+/*  font-size:30px;*/
+  
+  /*color:red;*/
+/*}*/
+
+/*.time {*/
+/*  display: inline-block;*/
+/*  font-size:15px;*/
+/*  padding:5px 10px;*/
+/*}*/
+
+/*.hot {*/
+/*  color:#b22222;*/
+/*}*/
